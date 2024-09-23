@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -103,7 +103,259 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: TeutonicKnight-attack c_7_0
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 214
+        width: 922
+        height: 1037
+      alignment: 9
+      pivot: {x: 0.33279127, y: 0.44631568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422af1dd033130b4d9120d9a751706ec
+      internalID: -1429778782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeutonicKnight-attack c_7_1
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1245
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3a986fd6c3df64ba8d74717d6cf61b
+      internalID: 1046883884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeutonicKnight-attack c_7_2
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1223
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5565b6698a3a72c41abad0330f9279ea
+      internalID: -1643477564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeutonicKnight-attack c_7_3
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1222
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba34b16fed62e24c9d46372788b4263
+      internalID: 1119401729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeutonicKnight-attack c_7_4
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1225
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a6bd6c60d5b1a4f9947df36cd97a8a
+      internalID: -2064552611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeutonicKnight-attack c_7_5
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1220
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e8b133963ff244faa2a548179ccc77
+      internalID: -153898527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeutonicKnight-attack c_7_6
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 850
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ad5bb791f44364fa5262b1ecda7109
+      internalID: 370063022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeutonicKnight-attack c_7_7
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 792
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fc3c93741e61b42a0f1f7a35eeea82
+      internalID: 1793290899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeutonicKnight-attack c_7_8
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 794
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9402b6531f84f4c83a0c50320bf618
+      internalID: 773517622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeutonicKnight-attack c_7_9
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 754
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59925cc92dfe1b24aac03efdfa422a48
+      internalID: 2040329798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeutonicKnight-attack c_7_10
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 699
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ec2559268dd8d4282920c0b5e80a63
+      internalID: -2115588557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeutonicKnight-attack c_7_11
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 649
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03264229c581a3742b95bce7e0b904cd
+      internalID: -373200328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -114,7 +366,19 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TeutonicKnight-attack c_7_0: -1429778782
+      TeutonicKnight-attack c_7_1: 1046883884
+      TeutonicKnight-attack c_7_10: -2115588557
+      TeutonicKnight-attack c_7_11: -373200328
+      TeutonicKnight-attack c_7_2: -1643477564
+      TeutonicKnight-attack c_7_3: 1119401729
+      TeutonicKnight-attack c_7_4: -2064552611
+      TeutonicKnight-attack c_7_5: -153898527
+      TeutonicKnight-attack c_7_6: 370063022
+      TeutonicKnight-attack c_7_7: 1793290899
+      TeutonicKnight-attack c_7_8: 773517622
+      TeutonicKnight-attack c_7_9: 2040329798
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

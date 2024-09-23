@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8ce0c71fc320c5a4489e9939c4bd7400
+guid: ead1f3ccb1bca6d4e94745e8cbfdb031
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -103,7 +103,28 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: TeutonicKnight-cast fireball_7_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 1665
+        height: 1893
+      alignment: 9
+      pivot: {x: 0.41, y: 0.325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ae1fe7789271545ba41888c86019ee
+      internalID: 280046318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -114,7 +135,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TeutonicKnight-cast fireball_7_0: 280046318
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
